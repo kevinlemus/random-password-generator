@@ -1,2 +1,2 @@
-# projects2022
-Projects created throughout the current year.
+# random-password-generator
+A program to help you come up with a randomized password. Written in Python.
